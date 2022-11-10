@@ -8,7 +8,7 @@ iOS Developer 👨‍💻 Currently looking for a job, so if you've got somethin
 
 ## 📱 Contacts
 - Telegram (prefered): [@SerovDev](https://t.me/SerovDev) 
-- LinkedIn: [Serov Dmitry](www.linkedin.com/in/serov-dmitry)
+- LinkedIn: [Serov Dmitry](https://www.linkedin.com/in/serov-dmitry/)
 - Email: serov.d.s@ya.ru
 
 
