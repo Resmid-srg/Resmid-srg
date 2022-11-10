@@ -1,5 +1,5 @@
 ### 🔮 Serov Dmitry (@SerovDev)
-iOS Developer 👨‍💻 Currently looking for a job, so if you've got something see contacts.
+iOS Developer 👨‍💻 Currently looking for a job, so if you've got something - see contacts 😊
 
 ## 💡 Skils
 - `Swift`, `Git`
