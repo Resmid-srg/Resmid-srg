@@ -3,7 +3,7 @@ iOS Developer 👨‍💻 Currently looking for a job, so if you've got somethin
 
 ## 💡 Skils
 - `Swift`, `Git`
-- `MVC`, `MVVP`
+- `MVC`, `MVVM`
 - `Firebase`, `Alamofire`, `MessageKit`, `SDWebImage`
 
 ## 📱 Contacts
